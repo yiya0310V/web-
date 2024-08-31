@@ -1,0 +1,46 @@
+#leccion{
+    margin: auto;
+    background-color: gray;
+    width: 900px;
+    height: 800px;
+}
+
+#leccion2{
+    margin: auto;
+    background-color: green;
+    width: 700px;
+    height: 600px;
+}
+
+h1{
+    font-family: Arial;
+    font-size: 18px;
+    color: white;
+    text-decoration: underline;
+    margin: auto;
+    text-align: center;
+}
+
+#leccion3{
+    margin: auto;
+    background-color: red;
+    width: 400px;
+    height: 300px;
+    margin-top: 20;
+}
+
+img{
+    width: 200px;
+    height: 200;
+    margin: auto;
+    margin-top: 10;
+    margin-left: 100;
+    
+}
+
+p{
+    font-size: 20px;
+    color: gold;
+    font-family: Arial;
+    text-align: center;
+}
